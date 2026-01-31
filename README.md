@@ -1,2 +1,2 @@
 # IT23817494
-itpm playwright assignment
+## ITPM Assignment 1 : Playwright project repository
